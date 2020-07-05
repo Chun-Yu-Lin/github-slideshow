@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+A wise man once said:
+> we live in a **society**.
 Use the left arrow to go back!
